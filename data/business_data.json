@@ -1,0 +1,842 @@
+[
+  {
+    "Title": "Disney to Close \u2018Star Wars\u2019-Themed Hotel Less Than Two Years After It Opened",
+    "Author": "Lauren McCarthy",
+    "Blurb": "The planned closure of Galactic Starcruiser, an immersive role-playing attraction, comes as Disney seeks to cut overall costs by more than $5 billion.",
+    "URL": "https://www.nytimes.com/2023/05/20/business/disney-world-star-wars-galactic-starcruiser.html"
+  },
+  {
+    "Title": "Behind the Scenes, G7 Nations Wrangle Over Ambitious Climate Commitments",
+    "Author": "Motoko Rich,\u00a0Lisa Friedman and Jim Tankersley",
+    "Blurb": "The U.S. finds itself caught between defending President Biden\u2019s climate change agenda and aiding allies intent on increasing their access to fossil fuels.",
+    "URL": "https://www.nytimes.com/2023/05/20/world/asia/climate-fossil-fuels-g7.html"
+  },
+  {
+    "Title": "DeSantis Lawyers Ask Judge in Disney Case to Recuse Himself",
+    "Author": "Brooks Barnes",
+    "Blurb": "They argued that Judge Mark E. Walker\u2019s comments in two unrelated proceedings displayed a bias toward the company.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/disney-ron-desantis-florida.html"
+  },
+  {
+    "Title": "JetBlue-American Partnership Struck Down by Federal Judge",
+    "Author": "Joe Rennison and Niraj Chokshi",
+    "Blurb": "An alliance begun in 2021 at four airports in the New York area and Boston allowed the airlines to sell tickets on each other\u2019s flights and share revenue.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/jetblue-american-northeast-alliance-justice-department.html"
+  },
+  {
+    "Title": "In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets",
+    "Author": "David E. Sanger,\u00a0Jim Tankersley,\u00a0Michael Crowley and Eric Schmitt",
+    "Blurb": "The president told allied leaders that he would allow Ukrainian pilots to be trained on American-made F-16s, and is prepared to approve other countries\u2019 transferring the jets to Ukraine.",
+    "URL": "https://www.nytimes.com/2023/05/19/world/europe/ukraine-f-16s-biden-russia.html"
+  },
+  {
+    "Title": "Powell Says Inflation Remains Too High",
+    "Author": "Alan Rappeport and Joe Rennison",
+    "Blurb": "The Fed chair said that it would take \u201csome time\u201d for inflation to moderate and that the central bank would continue to look at data as it considers whether to raise rates next month.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/jerome-powell-fed-inflation-interest-rates.html"
+  },
+  {
+    "Title": "James Gorman, Morgan Stanley\u2019s Long-Serving C.E.O., Will Step Down Within a Year",
+    "Author": "Rob Copeland",
+    "Blurb": "A successor to Mr. Gorman has not been identified, but he said there were three internal candidates.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/james-gorman-morgan-stanley-ceo.html"
+  },
+  {
+    "Title": "China\u2019s Tech Giants Signal the First Steps in a Bumpy Recovery",
+    "Author": "Chang Che",
+    "Blurb": "The economy is open again, helping Alibaba, Baidu and Tencent claw back in the first quarter from a miserable 2022, though they are likely to face continuing skepticism from investors.",
+    "URL": "https://www.nytimes.com/2023/05/19/technology/alibaba-baidu-tencent-q1-earnings.html"
+  },
+  {
+    "Title": "NASA Picks Blue Origin\u2019s Blue Moon Lander for Artemis V Mission",
+    "Author": "Kenneth Chang",
+    "Blurb": "After losing out to SpaceX, Jeff Bezos\u2019 rocket company will get a chance to carry astronauts to the moon\u2019s surface on a mission scheduled for 2029.",
+    "URL": "https://www.nytimes.com/2023/05/19/science/nasa-artemis-moon-bezos-blue-origin.html"
+  },
+  {
+    "Title": "1 in 5 Young Chinese Is Jobless, and Millions More Are About to Graduate",
+    "Author": "Claire Fu",
+    "Blurb": "The youth unemployment rate, which spiked during the pandemic, reached a record high this week, showing the perils of China\u2019s uneven economic recovery.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/china-youth-unemployment.html"
+  },
+  {
+    "Title": "Volkswagen Sells Its Russia Operations, Including an Assembly Plant",
+    "Author": "Melissa Eddy",
+    "Blurb": "The German automaker, which quit making cars in Russia after the invasion of Ukraine, said it had sold its plant to a local auto dealership chain.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/volkswagen-russia-factory.html"
+  },
+  {
+    "Title": "Disney Inflicts a Blow to DeSantis Ahead of His Presidential Run",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "The entertainment giant\u2019s move to cancel a major office project stung the Florida governor just days before he is expected to officially enter the 2024 race.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/dealbook/disney-desantis-presidential-campaign.html"
+  },
+  {
+    "Title": "Amazon Is Everywhere. That\u2019s What Makes It So Vulnerable.",
+    "Author": "Noam Scheiber",
+    "Blurb": "For years, the e-commerce giant could shield its vast archipelago of warehouses against disruptions from workers. Then it got even bigger.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/amazon-union-choke-points.html"
+  },
+  {
+    "Title": "\u2018Movie Theaters Are the Marketplace of Free Ideas\u2019",
+    "Author": "Nicole Sperling",
+    "Blurb": "John Fithian spent nearly three decades as the top lobbyist for movie theaters. He says their future is bright, despite the power of streaming.",
+    "URL": "https://www.nytimes.com/2023/05/19/business/media/corner-office-john-fithian.html"
+  },
+  {
+    "Title": "America\u2019s Semiconductor Boom Faces a Challenge: Not Enough Workers",
+    "Author": "Madeleine Ngo",
+    "Blurb": "Strengthened by billions of federal dollars, semiconductor companies plan to create thousands of jobs. But officials say there might not be enough people to fill them.",
+    "URL": "https://www.nytimes.com/2023/05/19/us/politics/semiconductor-worker-shortage.html"
+  },
+  {
+    "Title": "To Counter China, G7 Countries Borrow Its Economic Playbook",
+    "Author": "Jim Tankersley and Ana Swanson",
+    "Blurb": "Wealthy democracies rev up an effort to spend trillions on a new climate-friendly energy economy, while stealing away some of China\u2019s manufacturing power.",
+    "URL": "https://www.nytimes.com/2023/05/19/us/politics/biden-industrial-policy.html"
+  },
+  {
+    "Title": "15 Hours on the Job With a Bagel Roller",
+    "Author": "Sarah Bahr",
+    "Blurb": "A team of five reporters and video producers spent a day shadowing Celestino Garc\u00eda for the Cooking team\u2019s \u201cOn the Job\u201d YouTube series.",
+    "URL": "https://www.nytimes.com/2023/05/19/insider/15-hours-on-the-job-with-a-bagel-roller.html"
+  },
+  {
+    "Title": "Kia and Hyundai to Pay $200 Million to Settle Suit Over Car Thefts",
+    "Author": "Eduardo Medina",
+    "Blurb": "The agreement in the class-action suit, which awaits a judge\u2019s approval, would affect the owners of about nine million vehicles. It came as the nation contends with a surge in auto thefts.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/kia-hyundai-settlement-car-thefts.html"
+  },
+  {
+    "Title": "The Dawn of a New Century 21",
+    "Author": "Emma Grillo",
+    "Blurb": "The department store reopened in Lower Manhattan less than three years after closing all of its locations. For some, it had felt like an eternity.",
+    "URL": "https://www.nytimes.com/2023/05/18/style/century-21-nyc-reopening.html"
+  },
+  {
+    "Title": "F.D.A. Panel Recommends R.S.V. Vaccine to Protect Young Infants",
+    "Author": "Christina Jewett",
+    "Blurb": "A committee of experts voted in favor of a new shot administered to pregnant women, one in a series of new ways to arm the very young against a life-threatening virus.",
+    "URL": "https://www.nytimes.com/2023/05/18/health/rsv-vaccine-infants-fda.html"
+  },
+  {
+    "Title": "Twitter Accuses Microsoft of Improperly Using Its Data",
+    "Author": "Kate Conger,\u00a0Ryan Mac and Cade Metz",
+    "Blurb": "In a letter to Microsoft\u2019s chief executive, Satya Nadella, Twitter said the tech giant had violated a data agreement.",
+    "URL": "https://www.nytimes.com/2023/05/18/technology/twitter-microsoft-misusing-data.html"
+  },
+  {
+    "Title": "Regulators Rebut Claims by Silicon Valley Bank\u2019s Ex-C.E.O.",
+    "Author": "Emily Flitter and Alan Rappeport",
+    "Blurb": "The bank had not fixed its problems before it failed, they said. Its leader was not excluded from the sale process.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/silicon-valley-bank-becker-regulators.html"
+  },
+  {
+    "Title": "Peter Thiel Is Latest Billionaire Said to Have Met With Jeffrey Epstein",
+    "Author": "Matthew Goldstein and Ryan Mac",
+    "Blurb": "Mr. Thiel apparently had several meetings with Mr. Epstein in 2014, according to records of the disgraced financier reviewed by The New York Times.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/jeffrey-epstein-peter-thiel.html"
+  },
+  {
+    "Title": "TikTok Users Sue Montana, Calling State Ban Unconstitutional",
+    "Author": "Sapna Maheshwari and David McCabe",
+    "Blurb": "A spokeswoman for the state attorney general said that his office had \u201cexpected a legal challenge\u201d and was \u201cfully prepared to defend the law.\u201d",
+    "URL": "https://www.nytimes.com/2023/05/18/business/media/tiktok-ban-free-speech-montana.html"
+  },
+  {
+    "Title": "What Would Happen if the U.S. Defaulted on Its Debt",
+    "Author": "Joe Rennison",
+    "Blurb": "Investors, executives and economists are preparing contingency plans as they consider the turmoil that would result from a default in the $24 trillion U.S. Treasury market.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/default-debt-what-happens-next.html"
+  },
+  {
+    "Title": "Disney Pulls Plug on $1 Billion Development in Florida",
+    "Author": "Brooks Barnes",
+    "Blurb": "A new office complex, and relocation of a division from California, would have created more than 2,000 jobs but was scuttled as the company and Gov. Ron DeSantis continue to feud.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/disney-ron-desantis-florida.html"
+  },
+  {
+    "Title": "Elizabeth Holmes Must Report to Prison on May 30 and Pay Restitution",
+    "Author": "Lora Kelley",
+    "Blurb": "The Theranos founder, who was convicted last year of defrauding investors, lost her bid to remain free on bail while she appeals her conviction.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/elizabeth-holmes-jail-restitution.html"
+  },
+  {
+    "Title": "OpenAI Introduces ChatGPT App for the iPhone",
+    "Author": "Cade Metz",
+    "Blurb": "OpenAI is aiming to build on the popularity of its chatbot with a smartphone app that responds to voice prompts.",
+    "URL": "https://www.nytimes.com/2023/05/18/technology/openai-chatgpt-iphone.html"
+  },
+  {
+    "Title": "Sam Zell, 81, Tycoon Whose Big Newspaper Venture Went Bust, Dies",
+    "Author": "Robert D. McFadden",
+    "Blurb": "With a fortune made in real estate, he went into the media business in a landmark leveraged buyout of the Tribune Company in 2007. Bankruptcy ensued.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/sam-zell-dead.html"
+  },
+  {
+    "Title": "England\u2019s Water Companies Vow to Clean Up Their Sewage Dumping Act",
+    "Author": "Isabella Kwai",
+    "Blurb": "Private firms apologized for not doing more to prevent the release of untreated sewage into rivers and seas and pledged to invest 10 billion pounds to fix the problem.",
+    "URL": "https://www.nytimes.com/2023/05/18/world/europe/uk-england-sewage.html"
+  },
+  {
+    "Title": "Extremism Finds Fertile Ground in Chat Rooms for Gamers",
+    "Author": "Steven Lee Myers and Kellen Browning",
+    "Blurb": "In the past year, about half the people who played online multiplayer games in the world\u2019s major gaming markets encountered extremist statements, a new study found.",
+    "URL": "https://www.nytimes.com/2023/05/18/technology/video-games-extremism.html"
+  },
+  {
+    "Title": "Unions Accuse UPMC of Wielding Market Power Against Workers",
+    "Author": "Reed Abelson",
+    "Blurb": "A coalition of unions has filed an antitrust complaint with the Justice Department, accusing the Pennsylvania hospital system of suppressing wages and worsening working conditions.",
+    "URL": "https://www.nytimes.com/2023/05/18/health/unions-nurses-upmc-antitrust.html"
+  },
+  {
+    "Title": "When Will the U.S. Run Out of Cash? The Answer Is Complicated.",
+    "Author": "Alan Rappeport",
+    "Blurb": "The federal government is essentially living paycheck to paycheck, making the X-date hard to pin down.",
+    "URL": "https://www.nytimes.com/2023/05/18/us/politics/debt-ceiling-xdate.html"
+  },
+  {
+    "Title": "Corporate America Faces a Bankruptcy Boom",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "New data shows that 2023 is shaping up to be the biggest year for Chapter 11 filings in more than a decade.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/dealbook/corporate-bankruptcies-high-debt.html"
+  },
+  {
+    "Title": "Walmart Raises Its Outlook as Shoppers Look for Bargains",
+    "Author": "Jordyn Holman",
+    "Blurb": "The retailer reported revenue that beat expectations and said it expected net sales to rise 3.5 percent for the year.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/walmart-earnings-1q-2023.html"
+  },
+  {
+    "Title": "In Battle Over A.I., Meta Decides to Give Away Its Crown Jewels",
+    "Author": "Cade Metz and Mike Isaac",
+    "Blurb": "The tech giant has publicly released its latest A.I. technology so people can build their own chatbots. Rivals like Google say that approach can be dangerous.",
+    "URL": "https://www.nytimes.com/2023/05/18/technology/ai-meta-open-source.html"
+  },
+  {
+    "Title": "It\u2019s Not Your Imagination: First Class Is Getting Bigger",
+    "Author": "Julie Weed",
+    "Blurb": "Aiming to boost revenue and cater to a rising number of passengers willing to pay for premium seats, airlines are reconfiguring cabins and flying larger planes.",
+    "URL": "https://www.nytimes.com/2023/05/18/travel/airlines-expanding-business-first-class.html"
+  },
+  {
+    "Title": "An Untested Oil Price Cap Has Helped Choke Revenue to Russia",
+    "Author": "Jim Tankersley",
+    "Blurb": "Group of 7 leaders are prepared to celebrate the results of a novel effort to stabilize global oil markets and punish Moscow.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/economy/g7-biden-oil-price-cap-russia.html"
+  },
+  {
+    "Title": "The Scramble to Take Over What Bed Bath & Beyond Left Behind",
+    "Author": "Jordyn Holman",
+    "Blurb": "Couples are racing to find new wedding registries while suppliers seek other customers and competing retailers pledge to accept that big blue coupon.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/bed-bath-beyond-bankruptcy.html"
+  },
+  {
+    "Title": "An Automaker Has a Stark Warning for the U.K. Car Industry",
+    "Author": "Stanley Reed",
+    "Blurb": "Stellantis said post-Brexit export rules and the lack of a domestic battery manufacturer could force it to close its plants in Britain.",
+    "URL": "https://www.nytimes.com/2023/05/18/business/stellantis-uk-auto-industry-cars.html"
+  },
+  {
+    "Title": "Deutsche Bank Will Pay $75 Million to Victims of Jeffrey Epstein",
+    "Author": "Matthew Goldstein",
+    "Blurb": "A proposed court settlement closes another chapter in the German bank\u2019s relationship with the disgraced financier, which began in 2013 and continued up until late 2018.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/deutsche-bank-jeffrey-epstein.html"
+  },
+  {
+    "Title": "Montana Governor Signs Total Ban of TikTok in the State",
+    "Author": "Sapna Maheshwari",
+    "Blurb": "The legislation is the most extreme prohibition of the app in the nation and will almost certainly face legal challenges.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/montana-tiktok-ban.html"
+  },
+  {
+    "Title": "Robert E. Lucas Jr., Nobel-Winning Conservative Economist, Dies at 85",
+    "Author": "Sam Roberts",
+    "Blurb": "Challenging the theories of John Maynard Keynes, he questioned the idea that government intervention could help steer the economy.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/economy/robert-e-lucas-jr-dead.html"
+  },
+  {
+    "Title": "Two Television Showrunners on \u2018Creative Short Circuits\u2019",
+    "Author": "Reggie Ugwu",
+    "Blurb": "Soo Hugh (\u201cPachinko\u201d) and Damon Lindelof (\u201cLost,\u201d \u201cMrs. Davis\u201d) discuss learning from their staffs, wanting to hear \u201cno\u201d and navigating the writers\u2019 strike.",
+    "URL": "https://www.nytimes.com/2023/05/17/arts/television/damon-lindelhof-soo-hugh-tv-series.html"
+  },
+  {
+    "Title": "Haven\u2019t Checked Your Gmail in a While? Google May Delete Your Account.",
+    "Author": "Jesus Jim\u00e9nez",
+    "Blurb": "Personal Google accounts that have not been used in at least two years could be removed starting in December as part of an effort to address security threats, the company said.",
+    "URL": "https://www.nytimes.com/2023/05/17/technology/gmail-inactive-accounts-deleted.html"
+  },
+  {
+    "Title": "For Biden, Crisis at Home Complicates Diplomacy Abroad",
+    "Author": "Peter Baker",
+    "Blurb": "Volatility has become the new norm in Washington as the president heads to Japan, where he will reassure world leaders that the debt ceiling showdown will not upend the global economy.",
+    "URL": "https://www.nytimes.com/2023/05/17/us/politics/biden-japan-debt-limit.html"
+  },
+  {
+    "Title": "Kaitlan Collins, Moderator of Trump Forum, Is Named CNN\u2019s 9 P.M. Anchor",
+    "Author": "Michael M. Grynbaum",
+    "Blurb": "The appointment caps a fast rise at the network by Ms. Collins, 31, who previously covered the Trump and Biden administrations.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/media/cnn-kaitlan-collins.html"
+  },
+  {
+    "Title": "Washington Confronts the Challenge of Policing A.I.",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "Lawmakers and Sam Altman, the chief executive of OpenAI, agreed that artificial intelligence should be regulated. How to do that remains an open question.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/openai-altman-congress-ai-regulation.html"
+  },
+  {
+    "Title": "For Gen Z, Playing an Influencer on TikTok Comes Naturally",
+    "Author": "Sapna Maheshwari",
+    "Blurb": "There\u2019s stuff to promote now. The followers can come later.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/tiktok-influencers-gen-z.html"
+  },
+  {
+    "Title": "As China Looms Over Taiwan\u2019s Presidential Race, the Opposition Picks a Moderate",
+    "Author": "John Liu and Paul Mozur",
+    "Blurb": "The Kuomintang nominated Hou Yu-ih, a popular mayor who has said little about geopolitical issues, as the party tries to appeal to voters wary of Beijing.",
+    "URL": "https://www.nytimes.com/2023/05/17/world/asia/taiwan-china-kmt-election.html"
+  },
+  {
+    "Title": "Burning Man Becomes Latest Adversary in Geothermal Feud",
+    "Author": "Arielle Paul",
+    "Blurb": "Festival organizers are trying to block plans to build a clean energy plant in the Nevada desert, highlighting the struggle to combat climate change and the cost of clean power.",
+    "URL": "https://www.nytimes.com/2023/05/17/business/burning-man-geothermal-plant-nevada.html"
+  },
+  {
+    "Title": "Drug Shortages Near an All-Time High, Leading to Rationing",
+    "Author": "Christina Jewett",
+    "Blurb": "A worrisome scarcity of cancer drugs has heightened concerns about the troubled generic drug industry. Congress and the White House are seeking ways to address widespread supply problems.",
+    "URL": "https://www.nytimes.com/2023/05/17/health/drug-shortages-cancer.html"
+  },
+  {
+    "Title": "Disney Argues New Florida Law Nullifies DeSantis-Backed Suit",
+    "Author": "Brooks Barnes",
+    "Blurb": "The company wants a state court case involving development at Disney World dismissed, saying actions by the Florida governor and his allies made it moot.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/media/disney-world-ron-desantis-lawsuit.html"
+  },
+  {
+    "Title": "Senators Grill Ex-C.E.O. of Silicon Valley Bank",
+    "Author": "Reuters",
+    "Blurb": "Lawmakers on the Senate Banking Committee derided claims by the former chief executive of Silicon Valley Bank, Gregory Becker, that unforeseeable circumstances led to the bank\u2019s failure.",
+    "URL": "https://www.nytimes.com/video/business/100000008909266/silicon-valley-bank-senate.html"
+  },
+  {
+    "Title": "Biden Vetoes Legislation That Would Reinstate Tariffs on Some Solar Panels",
+    "Author": "Zolan Kanno-Youngs",
+    "Blurb": "President Biden announced a two-year pause on the tariffs last year after importers complained that the penalties would threaten broader adoption of solar energy in the United States.",
+    "URL": "https://www.nytimes.com/2023/05/16/us/politics/biden-solar-tariffs-veto.html"
+  },
+  {
+    "Title": "U.S. Tech Espionage Team Unveils First Cases Involving China and Russia",
+    "Author": "Ana Swanson",
+    "Blurb": "A new division set up by the government to pursue sanctions evasion and technology espionage announced arrests of individuals with ties to foreign governments.",
+    "URL": "https://www.nytimes.com/2023/05/16/us/politics/sanctions-tech-espionage-china-russia.html"
+  },
+  {
+    "Title": "Silicon Valley Bank\u2019s Ex-C.E.O. Is \u2018Truly Sorry\u2019 but Deflects Blame",
+    "Author": "Rob Copeland",
+    "Blurb": "Senators derided Gregory Becker at a hearing about the reasons for the failure of his bank. \u201cIt sounds a lot like \u2018my dog ate my homework,\u2019\u201d one said.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/silicon-valley-bank-becker-testimony.html"
+  },
+  {
+    "Title": "Strippers Unionize at California Club After Long Fight",
+    "Author": "Noam Scheiber and Ava Sasani",
+    "Blurb": "The club agreed not to block the dancers from affiliating with Actors\u2019 Equity in what appears to be the industry\u2019s first unionization since the 1990s.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/strippers-union-labor.html"
+  },
+  {
+    "Title": "OpenAI C.E.O. Calls for Government Regulation of Artificial Intelligence",
+    "Author": "Reuters",
+    "Blurb": "Sam Altman, the chief executive of OpenAI, testified before lawmakers on the dangers and opportunities of artificial intelligence at a Senate subcommittee hearing.",
+    "URL": "https://www.nytimes.com/video/business/100000008909247/open-ai-artificial-intelligence.html"
+  },
+  {
+    "Title": "OpenAI\u2019s Sam Altman Urges A.I. Regulation in Senate Hearing",
+    "Author": "Cecilia Kang",
+    "Blurb": "The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.",
+    "URL": "https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html"
+  },
+  {
+    "Title": "Electric Vans, Delayed by Production Problems, Find Eager Buyers",
+    "Author": "Neal E. Boudette",
+    "Blurb": "Passenger cars dominate the electric vehicle market, but light delivery trucks could benefit from the cost savings and range E.V.s offer.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/energy-environment/electric-vehicle-delivery-vans.html"
+  },
+  {
+    "Title": "U.S. Sues to Block Amgen\u2019s $27.8 Billion Takeover of Horizon Therapeutics",
+    "Author": "Rebecca Robbins",
+    "Blurb": "The Federal Trade Commission said the deal would enable Amgen to exploit its size to block competition for two expensive Horizon drugs.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/amgen-horizon-therapeutics-lawsuit.html"
+  },
+  {
+    "Title": "The C.E.O. of OpenAI Heads to Congress to Discuss Rules for A.I.",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "Sam Altman, who leads ChatGPT\u2019s parent company, is expected to call for some regulation of artificial intelligence as Washington weighs its next steps.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/dealbook/altman-openai-senate.html"
+  },
+  {
+    "Title": "Microsoft Says New A.I. Shows Signs of Human Reasoning",
+    "Author": "Cade Metz",
+    "Blurb": "A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.",
+    "URL": "https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html"
+  },
+  {
+    "Title": "Musk Warns Tesla Shareholders to Expect \u201cChallenging\u201d Year",
+    "Author": "Jack Ewing",
+    "Blurb": "Tesla will not escape the effects of a global economic downturn, Mr. Musk said at the carmaker\u2019s annual meeting. But he insisted Tesla would emerge stronger.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/tesla-shareholder-annual-meeting.html"
+  },
+  {
+    "Title": "Can the World Make an Electric Car Battery Without China?",
+    "Author": "Agnes Chang and Keith Bradsher",
+    "Blurb": "From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that\u2019s unlikely to change soon.",
+    "URL": "https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html"
+  },
+  {
+    "Title": "Wells Fargo to Pay $1 Billion to Settle Lawsuit by Shareholders",
+    "Author": "John Yoon",
+    "Blurb": "A group of shareholders had claimed that the bank misled investors about its progress in cleaning up after a sham accounts scandal a decade ago.",
+    "URL": "https://www.nytimes.com/2023/05/16/business/wells-fargo-shareholder-class-action-settlement.html"
+  },
+  {
+    "Title": "Appeals Court Pauses Ruling That Threatened Free Preventive Health Care",
+    "Author": "Emily Baumgaertner",
+    "Blurb": "The action, which stayed a lower court ruling, will require health plans to fully cover preventive services while the appeals process plays out.",
+    "URL": "https://www.nytimes.com/2023/05/15/health/preventive-health-services-aca-appeals-court.html"
+  },
+  {
+    "Title": "Possible Cyberattack Disrupts The Philadelphia Inquirer",
+    "Author": "Michael Levenson",
+    "Blurb": "The Inquirer, citing \u201canomalous activity\u201d on its computer systems, said it was unable to print its regular Sunday edition and told staff members not to work in the newsroom at least through Tuesday.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/media/philadelphia-inquirer-cyberattack.html"
+  },
+  {
+    "Title": "Yellen Reiterates That the U.S. Could Run Out of Cash by June 1",
+    "Author": "Alan Rappeport",
+    "Blurb": "The latest warning to Congress came before another meeting on Tuesday between President Biden and Speaker Kevin McCarthy to resolve the debt ceiling crisis.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/debt-limit-yellen-treasury.html"
+  },
+  {
+    "Title": "The Restaurant Service Charge Isn\u2019t Going Anywhere",
+    "Author": "Priya Krishna",
+    "Blurb": "These added-on fees confuse diners and even employees, but more owners are relying on them to help make a tough business work.",
+    "URL": "https://www.nytimes.com/2023/05/15/dining/restaurant-service-charges.html"
+  },
+  {
+    "Title": "Striking Hollywood Writers Disrupt TV\u2019s Major Ad Event",
+    "Author": "John Koblin",
+    "Blurb": "Dozens of protesters greeted marketers as they entered the first major event of the upfronts, an annual showcase for advertisers in which media companies stage lavish gatherings to promote their lineups.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/media/writers-strike-nbc-upfronts-week.html"
+  },
+  {
+    "Title": "San Francisco Fed Ties to S.V.B. Chief Attracts Scrutiny to Century-Old Setup",
+    "Author": "Jeanna Smialek",
+    "Blurb": "As Greg Becker, the former C.E.O. of Silicon Valley Bank, prepares to testify before Congress, boards that oversee regional Federal Reserve branches are in the spotlight.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/economy/san-francisco-fed-silicon-valley-bank.html"
+  },
+  {
+    "Title": "I.R.S. Acknowledges Black Americans Face More Audit Scrutiny",
+    "Author": "Alan Rappeport",
+    "Blurb": "The commissioner, Daniel Werfel, said the agency was working to correct unfairness in the enforcement of the tax code.",
+    "URL": "https://www.nytimes.com/2023/05/15/us/politics/irs-black-americans-tax-audit.html"
+  },
+  {
+    "Title": "Cyclone Mocha Leaves Thousands Homeless in Bangladesh and Myanmar",
+    "Author": "Saif Hasnat and Suhasini Raj",
+    "Blurb": "There was less damage than predicted, but the Rohingya refugee camps on the coast of Bangladesh, where most live in simple shanties, were hit particularly hard.",
+    "URL": "https://www.nytimes.com/2023/05/15/world/asia/cyclone-mocha-bangladesh-myanmar.html"
+  },
+  {
+    "Title": "E.U. Approves Microsoft\u2019s $69 Billion Deal for Activision",
+    "Author": "Adam Satariano",
+    "Blurb": "The green light follows objections to the blockbuster deal by American and British regulators on the grounds that it would undercut competition.",
+    "URL": "https://www.nytimes.com/2023/05/15/technology/eu-microsoft-activision-blizzard.html"
+  },
+  {
+    "Title": "The $69 Billion Microsoft-Activision Deal Faces a Big E.U. Test",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "The bloc\u2019s antitrust regulators could side with Microsoft on Monday, but the tech giant still faces an uphill battle to gaining full  approval.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/dealbook/microsoft-activision-antitrust-eu.html"
+  },
+  {
+    "Title": "U.S.-Made Technology Is Flowing to Russian Airlines, Despite Sanctions",
+    "Author": "Ana Swanson and Niraj Chokshi",
+    "Blurb": "Russian customs data shows that millions of dollars of aircraft parts made by Boeing, Airbus and others were sent to Russia last year.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/economy/russia-airlines-sanctions-ukraine.html"
+  },
+  {
+    "Title": "Hotels Roll Out the Red Carpet for Pets",
+    "Author": "Stephanie Rosenbloom",
+    "Blurb": "Doggy menus, plush beds, nose balm and pet sitting: As people increasingly travel with their four-legged friends, hotels are stepping up with more amenities.",
+    "URL": "https://www.nytimes.com/2023/05/15/travel/pet-friendly-hotels.html"
+  },
+  {
+    "Title": "Why Some Countries Find It Hard to Move Away From Fossil Fuels",
+    "Author": "Clifford Krauss",
+    "Blurb": "Trinidad and Tobago is the No. 2 exporter of liquefied natural gas in the Americas. Its output has been falling, but it remains committed to fossil fuels.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/energy-environment/trinidad-tobago-gas-oil.html"
+  },
+  {
+    "Title": "Climate Change Brings Warmer, Wetter Weather to Trinidad",
+    "Author": "Clifford Krauss",
+    "Blurb": "Even as the leaders of Trinidad and Tobago double down on fossil fuels, climate change is bringing more extreme weather to the island nation.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/energy-environment/trinidad-tobago-climate-change.html"
+  },
+  {
+    "Title": "Vice, Decayed Digital Colossus, Files for Bankruptcy",
+    "Author": "Lauren Hirsch and Benjamin Mullin",
+    "Blurb": "Vice, which had wooed media giants, has struggled to adjust to the punishing realities of digital publishing. A group of creditors could buy Vice for $225 million.",
+    "URL": "https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html"
+  },
+  {
+    "Title": "Bill Oesterle, Co-Founder of Angie\u2019s List, Dies at 57",
+    "Author": "Daniel E. Slotnik",
+    "Blurb": "What began as a company to review local contractors grew into a website with millions of subscribers looking to make home improvements.",
+    "URL": "https://www.nytimes.com/2023/05/14/business/bill-oesterle-dead.html"
+  },
+  {
+    "Title": "Who Would Want to Be a C.E.O.?",
+    "Author": "Ravi Mattu",
+    "Blurb": "The challenges facing business leaders feel particularly acute right now. This week, DealBook delved into four of them.",
+    "URL": "https://www.nytimes.com/2023/05/14/business/dealbook/ceo-politics-chatgpt.html"
+  },
+  {
+    "Title": "The Week in Business: Trump on TV",
+    "Author": "Marie Solis",
+    "Blurb": "Inflation continues to slow. Elon Musk says he\u2019s found a new C.E.O. for Twitter. And there will be a pair of Senate hearings on the banking crisis.",
+    "URL": "https://www.nytimes.com/2023/05/14/business/the-week-in-business-trump-cnn.html"
+  },
+  {
+    "Title": "The Greatest Wealth Transfer in History Is Here, With Familiar (Rich) Winners",
+    "Author": "Talmon Joseph Smith and Karl Russell",
+    "Blurb": "In an era of surging home and stock values, U.S. family wealth has soared. The trillions of dollars going to heirs will largely reinforce inequality.",
+    "URL": "https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html"
+  },
+  {
+    "Title": "You Can Ignore the Bridezilla in the Breakroom",
+    "Author": "Roxane Gay",
+    "Blurb": "A colleague\u2019s wedding \u2014 even if she won\u2019t stop talking about it \u2014 doesn\u2019t mean you need to spend money you don\u2019t want to spend.",
+    "URL": "https://www.nytimes.com/2023/05/14/business/roxane-gay-work-advice-office-gifts.html"
+  },
+  {
+    "Title": "What\u2019s the Point of Your 20s? Ask the Patron Saint of Striving Youth.",
+    "Author": "Emma Goldberg",
+    "Blurb": "Meg Jay knows it\u2019s confusing to figure out what to do with your life. She also knows you need to get on with it.",
+    "URL": "https://www.nytimes.com/2023/05/14/business/whats-the-point-of-your-20s-ask-the-patron-saint-of-striving-youth.html"
+  },
+  {
+    "Title": "Biden Wants Airlines to Pay Passengers for Delays. In Europe, they already do",
+    "Author": "Bernhard Warner and Sarah Kessler",
+    "Blurb": "The E.U.\u2019s passenger rights law has changed how airlines schedule flights.",
+    "URL": "https://www.nytimes.com/2023/05/13/business/dealbook/passenger-rights-europe.html"
+  },
+  {
+    "Title": "The Florida Man of Formula 1",
+    "Author": "Michael M. Grynbaum",
+    "Blurb": "Logan Sargeant is F1\u2019s first full-time American driver since 2007. Can his sport make the leap from Monte Carlo to Miami with its soul intact?",
+    "URL": "https://www.nytimes.com/2023/05/13/business/media/formula-1-logan-sargeant.html"
+  },
+  {
+    "Title": "Why Some Companies Are Saying \u2018Diversity and Belonging\u2019 Instead of \u2018Diversity and Inclusion\u2019",
+    "Author": "Jennifer Miller",
+    "Blurb": "The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven\u2019t worked out as planned.",
+    "URL": "https://www.nytimes.com/2023/05/13/business/diversity-equity-inclusion-belonging.html"
+  },
+  {
+    "Title": "Divorce Can Wreck a Woman\u2019s Financial Future. Here\u2019s How to Rebuild.",
+    "Author": "Lela Nargi",
+    "Blurb": "Women who have gone through a divorce often see their savings and retirement depleted. Building back means careful planning.",
+    "URL": "https://www.nytimes.com/2023/05/13/business/divorce-retirement-savings-planning.html"
+  },
+  {
+    "Title": "Flush With Federal Money, Strings Attached, a Deep South Factory Votes to Unionize",
+    "Author": "Jonathan Weisman",
+    "Blurb": "Friday\u2019s victory by the United Steelworkers at a factory building electric school buses was a test for Democratic hopes that clean-energy funding from Washington could bolster organized labor.",
+    "URL": "https://www.nytimes.com/2023/05/12/us/politics/clean-energy-unions.html"
+  },
+  {
+    "Title": "Some U.S. Solar Makers Criticize Biden\u2019s Tax Credits as Too Lax on China",
+    "Author": "Ana Swanson,\u00a0Alan Rappeport and Ivan Penn",
+    "Blurb": "U.S.-based manufacturers of solar products say rules issued by the Biden administration on Friday will \u201ccement China\u2019s dominance\u201d over the solar industry.",
+    "URL": "https://www.nytimes.com/2023/05/12/us/politics/solar-tax-credits.html"
+  },
+  {
+    "Title": "F.D.A. Approves New Drug to Treat Hot Flashes",
+    "Author": "Christina Jewett",
+    "Blurb": "It is the first nonhormonal treatment for the menopause symptom.",
+    "URL": "https://www.nytimes.com/2023/05/12/health/menopause-fda-hot-flashes.html"
+  },
+  {
+    "Title": "Bernadine Strik, Whose Insights Helped Blueberries Thrive, Dies at 60",
+    "Author": "Daniel E. Slotnik",
+    "Blurb": "A horticulturist, she discovered farming methods that increased yields of the fruit as its health benefits became widely understood and demand for it grew.",
+    "URL": "https://www.nytimes.com/2023/05/12/science/bernadine-strik-dead.html"
+  },
+  {
+    "Title": "Mike Pride, Who Proved a Regional Newspaper Could Work, Dies at 76",
+    "Author": "Sam Roberts",
+    "Blurb": "For 25 years he was editor of The Concord Monitor, an award-winning go-to source every four years for national reporters covering the New Hampshire presidential primary.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/media/mike-pride-dead.html"
+  },
+  {
+    "Title": "Ex-ByteDance Executive Accuses Company of \u2018Lawlessness\u2019",
+    "Author": "Thomas Fuller and Sapna Maheshwari",
+    "Blurb": "The former executive sued ByteDance, which owns TikTok, for wrongful termination and accused the company of lifting content from rivals and \u201csupreme access\u201d by the Chinese Communist Party.",
+    "URL": "https://www.nytimes.com/2023/05/12/technology/tiktok-bytedance-lawsuit-china.html"
+  },
+  {
+    "Title": "In China, the Police Came for the Consultants. Now the C.E.O.s Are Alarmed.",
+    "Author": "Daisuke Wakabayashi,\u00a0Ana Swanson and Lauren Hirsch",
+    "Blurb": "Foreign businesses, a top Chinese official said in March, \u201care not foreigners, but family.\u201d Then came a crackdown on firms with foreign ties.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/china-anti-espionage-law.html"
+  },
+  {
+    "Title": "The Business Nightmare of Dealing with Government",
+    "Author": "Matthew Gwyther",
+    "Blurb": "The rise of populism is testing corporations\u2019 relationships with policymakers, but it\u2019s hard for C.E.O.s to engage without getting clobbered.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/dealbook/the-business-nightmare-of-navigating-geopolitics.html"
+  },
+  {
+    "Title": "Your Stories: Cool, Fascinating and Fun Climate Jobs",
+    "Author": "Manuela Andreoni",
+    "Blurb": "We asked you to tell us about your careers. You had plenty to say.",
+    "URL": "https://www.nytimes.com/2023/05/12/climate/climate-careers-jobs.html"
+  },
+  {
+    "Title": "U.S. Faces \u2018Significant Risk\u2019 of Running Out of Cash in June, Budget Office Warns",
+    "Author": "Alan Rappeport",
+    "Blurb": "A default would cause financial distress, economic disruptions and rapid increases in borrowing rates, the nonpartisan Congressional Budget Office said.",
+    "URL": "https://www.nytimes.com/2023/05/12/us/politics/debt-ceiling-x-date.html"
+  },
+  {
+    "Title": "White House Taps Two Economists for Top Fed Jobs",
+    "Author": "Jeanna Smialek",
+    "Blurb": "President Biden announced his plan to nominate Adriana Kugler, an official at the World Bank, for a Fed governor job, while elevating Philip Jefferson to the role of vice chair.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/economy/fed-nominees-kugler-jefferson.html"
+  },
+  {
+    "Title": "Elon Musk Appoints Linda Yaccarino Twitter\u2019s New Chief",
+    "Author": "Tiffany Hsu,\u00a0Sapna Maheshwari,\u00a0Benjamin Mullin and Ryan Mac",
+    "Blurb": "Mr. Musk said Ms. Yaccarino would focus on business operations and he would work on product design and technology at the social media platform.",
+    "URL": "https://www.nytimes.com/2023/05/12/technology/yaccarino-twitter-ceo-musk.html"
+  },
+  {
+    "Title": "More Options to Pay for Medical Care, but Some May Be Costly",
+    "Author": "Ann Carrns",
+    "Blurb": "Consumer experts are warning patients that some offerings charge much higher interest rates than regular credit cards.",
+    "URL": "https://www.nytimes.com/2023/05/12/your-money/medical-care-credit-cards.html"
+  },
+  {
+    "Title": "Calls to Investigate Short Sellers Intensify as Bank Crisis Deepens",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "Jamie Dimon is the latest to urge action against the traders who have targeted the regional lenders and made huge profits.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/dealbook/jamie-dimon-short-sellers-banks.html"
+  },
+  {
+    "Title": "China Orders Tesla to Recall 1.1 Million Vehicles Over Braking Risks",
+    "Author": "Jenny Gross and Claire Fu",
+    "Blurb": "Defects on certain Tesla models could lead drivers to step on the accelerator pedals for longer than necessary, increasing the risk of collisions, China\u2019s market regulator says.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/tesla-recall-china.html"
+  },
+  {
+    "Title": "How the Last Writers\u2019 Strike Changed Things Onscreen",
+    "Author": "Nicole Sperling",
+    "Blurb": "The impact included promising shows that lost their audiences, films rushed into production with flimsy scripts and turbocharging reality programming.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/media/last-hollywood-writers-strike.html"
+  },
+  {
+    "Title": "The Debt Ceiling Dispute Raises the Risks for \u2018Risk-Free\u2019 U.S. Bonds",
+    "Author": "Jeff Sommer",
+    "Blurb": "Short-term costs for insuring U.S. bonds are skyrocketing, and the long-term effects of repeated flirtations with debt default are already a burden, our columnist says.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/debt-ceiling-bonds-costs.html"
+  },
+  {
+    "Title": "Once an Evangelist for Airbnbs, She Now Crusades for Affordable Housing",
+    "Author": "Martha C. White",
+    "Blurb": "Precious Price ditched her profitable business  of renting home stays to tourists to combat the mounting housing crisis.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/airbnb-short-term-rental-discrimination-housing.html"
+  },
+  {
+    "Title": "How a Solo Gig Can Give You a Stronger Retirement",
+    "Author": "Mark Miller",
+    "Blurb": "Becoming a solo entrepreneur in the years after leaving an employer can give your Social Security benefit and savings a boost. Here\u2019s what to know.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/retirement-entrepreneurs-social-security.html"
+  },
+  {
+    "Title": "Help! My Tour Got Canceled but Travel Insurance Won\u2019t Pay",
+    "Author": "Seth Kugel",
+    "Blurb": "Destruction from Hurricane Ian led a tour operator to cancel a 10-day excursion to Cuba, leaving a woman with a useless $1,500 plane ticket. That\u2019s what travel insurance is for, right? Our columnist dives into the red tape.",
+    "URL": "https://www.nytimes.com/2023/05/12/travel/travel-insurance-advice.html"
+  },
+  {
+    "Title": "Britain\u2019s Economy Ekes Out Growth in First Quarter",
+    "Author": "Eshe Nelson",
+    "Blurb": "The increase of 0.1 percent in the three months that ended in March, which was driven by construction and information services, matched the slow rise in the previous quarter.",
+    "URL": "https://www.nytimes.com/2023/05/12/business/britain-economy-1q-gdp.html"
+  },
+  {
+    "Title": "Kemal Dervis, Who Eased Turkey\u2019s Economic Crisis, Dies at 74",
+    "Author": "Neil Genzlinger",
+    "Blurb": "Changes he spearheaded in 2001 helped avert disaster. He later led the United Nations Development Program.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/kemal-dervis-dead.html"
+  },
+  {
+    "Title": "Meeting Between Biden and Republicans Delayed as Sides Pursue Debt Limit Deal",
+    "Author": "Carl Hulse,\u00a0Jim Tankersley and Alan Rappeport",
+    "Blurb": "The decision to delay Friday\u2019s expected meeting to next week was cast as a positive development, one that could allow officials to find agreement before the United States defaults on its debt.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/economy/biden-republicans-debt-limit-meeting.html"
+  },
+  {
+    "Title": "Elon Musk Says He Has a New C.E.O. for Twitter",
+    "Author": "Benjamin Mullin,\u00a0Ryan Mac and Tiffany Hsu",
+    "Blurb": "Mr. Musk is in talks about the role with Linda Yaccarino, chairman of global advertising and partnerships at NBCUniversal, two people with knowledge of the matter said.",
+    "URL": "https://www.nytimes.com/2023/05/11/technology/elon-musk-ceo-twitter.html"
+  },
+  {
+    "Title": "Striking Writers Find Their Villain: Netflix",
+    "Author": "John Koblin and Nicole Sperling",
+    "Blurb": "Fear of protests prompted the streaming giant to shift\u00a0an anticipated presentation\u00a0for advertisers\u00a0to a virtual\u00a0event and a top executive to skip an honorary gala.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/media/netflix-writers-strike.html"
+  },
+  {
+    "Title": "Peloton Shares Slide After It Recalls Two Million Exercise Bikes",
+    "Author": "Lora Kelley",
+    "Blurb": "The company is offering to replace seat posts on the bikes after receiving 35 reports of the equipment breaking.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/peloton-recall-exercise-bikes.html"
+  },
+  {
+    "Title": "F.D.A. Eases Ban on Blood Donations From Gay and Bisexual Men",
+    "Author": "Christina Jewett",
+    "Blurb": "But men who had multiple sex partners or were taking PrEP medications in the last three months would still be barred from donating blood.",
+    "URL": "https://www.nytimes.com/2023/05/11/health/fda-blood-donations-gay-bisexual-men.html"
+  },
+  {
+    "Title": "Back-to-Office Battles Underscore a Change in Workplace Authority",
+    "Author": "Stefan Stern",
+    "Blurb": "As workers push back on mandates, business leaders are wrestling with a new, post-pandemic identity.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/dealbook/back-to-office-battles-underscore-a-change-in-workplace-authority.html"
+  },
+  {
+    "Title": "How MTV Broke News for a Generation",
+    "Author": "Remy Tumin",
+    "Blurb": "MTV News bridged a gap between news and pop culture without talking down to its young audience. As it prepares to shut down, Kurt Loder, Tabitha Soren, Sway Calloway and others reflect on its legacy.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/media/mtv-news-layoffs.html"
+  },
+  {
+    "Title": "PacWest Bank, Shedding Billions in Deposits, Enters Renewed Market Spiral",
+    "Author": "Rob Copeland",
+    "Blurb": "The Los Angeles-based lender said that its falling stock price ignited customers\u2019 \u201cfears of the safety of their deposits.\u201d",
+    "URL": "https://www.nytimes.com/2023/05/11/business/pacwest-bank-market-turmoil.html"
+  },
+  {
+    "Title": "CNN Chairman Defends Decision to Host Trump Town Hall",
+    "Author": "Michael M. Grynbaum and Benjamin Mullin",
+    "Blurb": "\u201cPeople woke up, and they know what the stakes are in this election in a way that they didn\u2019t the day before,\u201d Chris Licht said in a morning call at the network.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/media/cnn-donald-trump-chris-licht.html"
+  },
+  {
+    "Title": "Why You\u2019re Probably Hearing Less About Corporate Climate Initiatives",
+    "Author": "Michael Skapinker",
+    "Blurb": "Amid accusations of \u201cgreenwashing\u201d and \u201cwoke capitalism,\u201d some business advisers say staying quiet might be the best option.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/dealbook/climate-change-business.html"
+  },
+  {
+    "Title": "Yellen Calls Invoking 14th Amendment to Raise Debt Limit \u2018Legally Questionable\u2019",
+    "Author": "Alan Rappeport",
+    "Blurb": "The Treasury secretary warned that a default would lead to a \u201cvery substantial downturn.\u201d",
+    "URL": "https://www.nytimes.com/2023/05/11/us/politics/debt-limit-yellen-14th-amendment.html"
+  },
+  {
+    "Title": "How FTX Missed a Potentially Lucrative Opportunity",
+    "Author": "Andrew Ross Sorkin,\u00a0Ravi Mattu,\u00a0Bernhard Warner,\u00a0Sarah Kessler,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni",
+    "Blurb": "A decision to offload warrants to buy an obscure cryptocurrency token as part of the exchange\u2019s bankruptcy proceedings may have been costly.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/dealbook/ftx-sam-bankman-fried.html"
+  },
+  {
+    "Title": "Bank of England Raises Interest Rates to Highest Level in 15 Years",
+    "Author": "Eshe Nelson",
+    "Blurb": "The central bank lifted its benchmark rate a quarter point, to 4.5 percent, as part of its aggressive policy to tame inflation, but forecast that Britain was likely to avoid a recession.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/bank-of-england-interest-rates-uk.html"
+  },
+  {
+    "Title": "U.S. Focuses on Invigorating \u2018Chiplets\u2019 to Stay Cutting-Edge in Tech",
+    "Author": "Don Clark",
+    "Blurb": "Chiplets, a way to design chips for higher performance, has become a key prong of U.S. industrial policy. But pushing for more of this activity domestically is challenging.",
+    "URL": "https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html"
+  },
+  {
+    "Title": "Friends Once \u2018Escaped\u2019 Her Cooking. Now, She\u2019s One of the World\u2019s Best Chefs.",
+    "Author": "Valeriya Safronova",
+    "Blurb": "Ana Ros broke through the boys\u2019 club of fine dining, earning Hisa Franko in Slovenia two Michelin stars and a spot on the list of the world\u2019s best restaurants.",
+    "URL": "https://www.nytimes.com/2023/05/11/business/ana-ros-michelin-woman-chef.html"
+  },
+  {
+    "Title": "How Russia\u2019s Rich Get Their Luxuries Now",
+    "Author": "Anton Troianovski and Jack Ewing",
+    "Blurb": "More than a year into Vladimir Putin\u2019s invasion, the web of global trade has adjusted to Western sanctions, with a network of middlemen sending cars, electronics and more to Russia.",
+    "URL": "https://www.nytimes.com/2023/05/11/world/europe/dubai-russia-cars-export.html"
+  },
+  {
+    "Title": "Taiwan Is Running Low on a Strategic Asset: Engineers",
+    "Author": "John Liu and Paul Mozur",
+    "Blurb": "Taiwan\u2019s world-dominating microchip sector was built by TSMC\u2019s skilled employees. But a demographic crisis, demanding work culture and flagging interest threaten its lead.",
+    "URL": "https://www.nytimes.com/2023/05/11/technology/taiwan-tsmc-microchips.html"
+  },
+  {
+    "Title": "CNN\u2019s Trump Forum Was a Combative Preview of Political Coverage to Come",
+    "Author": "Michael M. Grynbaum",
+    "Blurb": "Criticized for handing Donald Trump a live prime-time platform, CNN faced a divisive response to an occasionally bewildering broadcast.",
+    "URL": "https://www.nytimes.com/2023/05/10/business/media/cnn-trump-town-hall.html"
+  },
+  {
+    "Title": "Chris Strachwitz, Who Dug Up the Roots of American Music, Dies at 91",
+    "Author": "Alex Traub",
+    "Blurb": "Traveling the nation to discover little-known performers for the Arhoolie label, which he founded in 1960, he earned a nickname: El Fan\u00e1tico.",
+    "URL": "https://www.nytimes.com/2023/05/10/arts/music/chris-strachwitz-dead.html"
+  },
+  {
+    "Title": "Addiction Treatment Medicine Is Vastly Underprescribed, Especially by Race, Study Finds",
+    "Author": "Jan Hoffman",
+    "Blurb": "Black patients with opioid use disorder were far less likely to fill prescriptions for the most effective addiction treatments than white patients. But strikingly few patients of all races got the medicine.",
+    "URL": "https://www.nytimes.com/2023/05/10/health/addiction-treatment-buprenorphine-suboxone.html"
+  },
+  {
+    "Title": "New Defamation Suit Against Fox Signals Continued Legal Threat",
+    "Author": "Jim Rutenberg and Steven Lee Myers",
+    "Blurb": "The suit, brought by a specialist in Russian disinformation, cites parallels with the recently settled Dominion Voting Systems case against Fox.",
+    "URL": "https://www.nytimes.com/2023/05/10/business/media/defamation-suit-fox-nina-jankowicz.html"
+  },
+  {
+    "Title": "How Past Debt\u00a0Limit Crises Shaped Biden\u2019s No-Negotiation Stance",
+    "Author": "Katie Rogers",
+    "Blurb": "Battles in 2011 and 2013 taught President Biden not to lean on a House speaker who has little room to negotiate and to keep debt ceiling talks separate from the budget.",
+    "URL": "https://www.nytimes.com/2023/05/10/us/politics/biden-obama-debt-limit.html"
+  },
+  {
+    "Title": "Disney\u2019s Losses From Streaming Narrowed in the Last Quarter",
+    "Author": "Brooks Barnes",
+    "Blurb": "The company\u2019s earnings were buoyed by its theme parks and cruise ships. It also announced it would soon put Hulu content on Disney+.",
+    "URL": "https://www.nytimes.com/2023/05/10/business/media/walt-disney-company-earnings.html"
+  },
+  {
+    "Title": "F.B.I. Says Video Voyeur Hid Camera in Cruise Ship Bathroom",
+    "Author": "Ceylan Yeginsu",
+    "Blurb": "The bureau arrested a passenger aboard the Harmony of the Seas for allegedly recording more than 150 passengers, including 40 minors, in a public bathroom.",
+    "URL": "https://www.nytimes.com/2023/05/10/travel/hidden-camera-cruise-ship-bathroom-fbi.html"
+  },
+  {
+    "Title": "Carl Icahn\u2019s Firm Faces Federal Inquiry",
+    "Author": "Maureen Farrell and Matthew Goldstein",
+    "Blurb": "The billionaire activist investor\u2019s company said that U.S. prosecutors had asked for information about its operations after a short seller\u2019s report took aim at the way the firm is run.",
+    "URL": "https://www.nytimes.com/2023/05/10/business/carl-icahn-hindenburg-research-inquiry.html"
+  },
+  {
+    "Title": "F.D.A. Advisers Say Benefits of Over-the-Counter Birth Control Pill Outweigh Risks",
+    "Author": "Pam Belluck",
+    "Blurb": "The agency is expected to decide this summer whether to allow the first nonprescription sales of an oral contraceptive in the United States.",
+    "URL": "https://www.nytimes.com/2023/05/10/health/fda-otc-birth-control-pill.html"
+  }
+]

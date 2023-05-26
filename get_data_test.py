@@ -65,11 +65,11 @@ data = {"Title": titles, "Author": authors, "Blurb": blurbs, "URL": urls}
 df = pd.DataFrame(data)
 
 # Save DataFrame to CSV
-csv_file_path = "business_data.csv"
+csv_file_path = "data/business_data.csv"
 df.to_csv(csv_file_path, index=False)
 
 # Save DataFrame to JSON
-json_file_path = "business_data.json"
+json_file_path = "data/business_data.json"
 df.to_json(json_file_path, orient="records")
 
 # End timer and print run time
